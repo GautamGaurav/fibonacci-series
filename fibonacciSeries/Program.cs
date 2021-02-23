@@ -8,7 +8,7 @@ namespace fibbonicSeries
         {
             try
             {
-                Console.WriteLine("Enter number of fibbonic terms");
+                Console.WriteLine("Enter number of fibonacci terms");
                 int n = int.Parse(Console.ReadLine());
 
 
